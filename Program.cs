@@ -10,6 +10,7 @@ namespace Borrador
             Console.WriteLine(a + b);
             Console.WriteLine(a - b);
             Console.WriteLine("Búsqueda del push");
+            Console.WriteLine("Frase puesta desde rama remota")
         }
     }
 }
